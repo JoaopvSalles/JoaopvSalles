@@ -27,7 +27,7 @@
 ## 🌐 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="linkedin.com/in/joão-vecchio-175934130" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vecchio-175934130" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JoaopvSalles-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
