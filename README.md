@@ -22,3 +22,12 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopvSalles&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
+<br><br>
+
+## 🌐 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="linkedin.com/in/joão-vecchio-175934130" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-JoaopvSalles-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
