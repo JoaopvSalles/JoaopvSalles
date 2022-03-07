@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou João Paulo, estudante de programação e apaixonado por tecnologia!
+### Olá! 👋 Eu sou João Paulo, estudante de programação e apaixonado por tecnologia! 💻
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
