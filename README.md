@@ -1,4 +1,5 @@
 <h1 align="left"> Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Me chamo João Paulo, sou estudante de programação e apaixonado por tecnologia! 💻</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaopvSalles&color=yellow" alt="Profile views" /> </p>
 
 <br><br>
